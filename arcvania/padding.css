@@ -1,0 +1,305 @@
+//padding of 0px;
+.paT0{
+	padding-top: 0px;
+}
+.paR0{
+	padding-right: 0px;
+}
+.paB0{
+	padding-bottom: 0px;
+}
+.paL0{
+	padding-left: 0px;
+}
+.paTR0{
+	padding-top: 0px;
+	padding-right: 0px;
+}
+.paTB0{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.paTL0{
+	padding-top: 0px;
+	padding-left: 0px;
+}
+.paRB0{
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.paRL0{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.paBL0{
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.paTRL0{
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.paRBL0{
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.paTRBL0{
+	padding: 0px 0px 0px 0px;
+}
+
+//padding of 1 px
+.paT1{
+	padding-top: 1px;
+}
+.paR1{
+	padding-right: 1px;
+}
+.paB1{
+	padding-bottom: 1px;
+}
+.paL1{
+	padding-left: 1px;
+}
+.paTR1{
+	padding-top: 1px;
+	padding-right: 1px;
+}
+.paTB1{
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+.paTL1{
+	padding-top: 1px;
+	padding-left: 1px;
+}
+.paRB1{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+.paRL1{
+	padding-right: 1px;
+	padding-left: 1px;
+}
+.paBL1{
+	padding-bottom: 1px;
+	padding-left: 1px;
+}
+.paTRL1{
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+}
+.paRBL1{
+	padding-right: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+}
+.paTRBL1{
+	padding: 1px 1px 1px 1px;
+}
+
+//padding of 2px;
+.paT2{
+	padding-top: 2px;
+}
+.paR2{
+	padding-right: 2px;
+}
+.paB2{
+	padding-bottom: 2px;
+}
+.paL2{
+	padding-left: 2px;
+}
+.paTR2{
+	padding-top: 2px;
+	padding-right: 2px;
+}
+.paTB2{
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.paTL2{
+	padding-top: 2px;
+	padding-left: 2px;
+}
+.paRB2{
+	padding-right: 2px;
+	padding-bottom: 2px;
+}
+.paRL2{
+	padding-right: 2px;
+	padding-left: 2px;
+}
+.paBL2{
+	padding-bottom: 2px;
+	padding-left: 2px;
+}
+.paTRL2{
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-left: 2px;
+}
+.paRBL2{
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+}
+.paTRBL2{
+	padding: 2px 2px 2px 2px;
+}
+
+//padding of 3px;
+.paT3{
+	padding-top: 3px;
+}
+.paR3{
+	padding-right: 3px;
+}
+.paB3{
+	padding-bottom: 3px;
+}
+.paL3{
+	padding-left: 3px;
+}
+.paTR3{
+	padding-top: 3px;
+	padding-right: 3px;
+}
+.paTB3{
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.paTL3{
+	padding-top: 3px;
+	padding-left: 3px;
+}
+.paRB3{
+	padding-right: 3px;
+	padding-bottom: 3px;
+}
+.paRL3{
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.paBL3{
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+.paTRL3{
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.paRBL3{
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+.paTRBL3{
+	padding: 3px 3px 3px 3px;
+}
+
+//padding of 5px;
+.paT5{
+	padding-top: 5px;
+}
+.paR5{
+	padding-right: 5px;
+}
+.paB5{
+	padding-bottom: 5px;
+}
+.paL5{
+	padding-left: 5px;
+}
+.paTR5{
+	padding-top: 5px;
+	padding-right: 5px;
+}
+.paTB5{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.paTL5{
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.paRB5{
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+.paRL5{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.paBL5{
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+.paTRL5{
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.paRBL5{
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+.paTRBL5{
+	padding: 5px 5px 5px 5px;
+}
+
+//padding of 10px;
+.paT10{
+	padding-top: 10px;
+}
+.paR10{
+	padding-right: 10px;
+}
+.paB10{
+	padding-bottom: 10px;
+}
+.paL10{
+	padding-left: 10px;
+}
+.paTR10{
+	padding-top: 10px;
+	padding-right: 10px;
+}
+.paTB10{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.paTL10{
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.paRB10{
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+.paRL10{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.paBL10{
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.paTRL10{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.paRBL10{
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.paTRBL10{
+	padding: 10px 10px 10px 10px;
+}

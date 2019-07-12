@@ -1,0 +1,85 @@
+.talk-bubble {
+	margin: 5px;
+	display: block;
+	position: relative;
+	width: auto;
+	max-width: 400px;
+	height: auto;
+	background-color: rgb(150,255,150);
+}
+.talk-bubble-away{
+	margin-left: 15px;
+	background-color: rgb(230,255,230);
+}
+.border{
+  border: 1px solid #666;
+}
+.round{
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+}
+
+/* Right triangle, left side slightly down FOR HOME */
+.tri-right.border.left-in:before {
+	content: ' ';
+	position: absolute;
+	width: 0;
+	left: -15px;
+	height: 0;
+	right: auto;
+	top: 12px;
+	bottom: auto;
+	border: 8px solid;
+	border-color: #666 #666 transparent transparent;
+}
+.tri-right.left-in:after{
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: -13px;
+	right: auto;
+	top: 13px;
+	bottom: auto;
+	border: 7px solid;
+	border-color: rgb(230,255,230) rgb(230,255,230) transparent transparent;
+}
+
+/* Right triangle, right side slightly down for AWAY*/
+.tri-right.border.right-in:before {
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: auto;
+	right: -15px;
+	top: 12px;
+	bottom: auto;
+	border: 8px solid;
+	border-color: #666 transparent transparent #666;
+}
+.tri-right.right-in:after{
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: auto;
+	right: -13px;
+	top: 13px;
+	bottom: auto;
+	border: 7px solid;
+	border-color: rgb(150,255,150) transparent transparent rgb(150,255,150);
+}
+
+/* talk bubble contents */
+.talktext{
+	padding: 0.6em;
+	text-align: left;
+	line-height: 1.3em;
+}
+.talktext p{
+  /* remove webkit p margins */
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+}

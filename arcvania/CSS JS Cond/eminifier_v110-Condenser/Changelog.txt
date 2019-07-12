@@ -1,0 +1,23 @@
+aaaaaaaaaaaa,_                _,aaaaaaaaaaaaaaaaaaa,_
+             "Y,            ,P"                     "Y,
+aaaaaaaaaa,    `b          d'    ,aaaaaaaaaaaaaaa,    `b
+       ,aaabaaaa8aaaaaaaaaa8aaaadaaa,            "b,   `b
+       I         INFORMATION        I              I    I
+       `aaaaaaaaaaaaaaaaaaaaaaaaaaaa'            ,P'   ,P
+aaaaaaaaaad'   ,P ELITE.SO Y,   `baaaaaaaaaaaaaaad'   ,P
+             ,d'            `b,                     ,d'
+aaaaaaaaaaaad'                `baaaaaaaaaaaaaaaaaaad'
+
+eMinifier - Changelog
+
+[21-07-2012 - v1.1.0]
+- Removed: Totally java independant now.
+- Removed: Does not use YUIcompression tech now.
+- Improved: CSS engine, now also optimizes the code. Corrects it if possible.
+- Improved: JS engine, now also optimizes the code. Corrects it if possible.
+- Improved: Compression record broken - 57% compression ratio!
+- Fixed: Fatal bugs fixed.
+- Added: PHP scrambler engine, now can scramble PHP to make it unreadable.
+
+[20-07-2012 - v1.0.0]
+- Project started.
